@@ -11,7 +11,7 @@
   C++ , C , Javascript
   
   <h5>Technologies</h5>
-  NodeJs , ReactJS , MongoDB ,Mongoose, ejs , Rest Api ,
+  NodeJs , ReactJS , MongoDB ,Mongoose, ejs , Rest Api
   
   <h4>Tools</h4>
   Git , Github , VS Code , Atom , Heroku
