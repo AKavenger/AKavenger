@@ -1,3 +1,4 @@
+# 👋 Hi there, I'm Avinash Kushwaha
 # 💫 About Me:
 😄 Pronouns: He/His<br>🔭 I’m currently a final year Btech Student.<br>🌱 I’m currently learning more about MERN Stack.<br>🤖 I’m am practicing MERN stack from past 1 year.<br>💬 Ask me about React.js or Node.js.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I love pc games :).
 
